@@ -1,0 +1,22 @@
+{
+  "name": "atul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eml-parser": "^1.0.6",
+    "jest": "^27.0.6",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.0.6",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
